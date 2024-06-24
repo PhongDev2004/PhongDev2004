@@ -126,12 +126,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=PhongDev2004&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&hide_border=true&icon_color=2f80ed&custom_title=" alt="piyush-stats" />
     </td>
   </tr>
-  <tr>
-    <td align=center colspan="2">
-        <!--   25/05/2024 -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhongDev2004&layout=compact&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed&range=all_time&custom_title=25/05/2024%20-%20Present"/>
-    </td>
-  </tr>
 </table>
 
 <div>
