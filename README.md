@@ -115,21 +115,7 @@
   <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhongDev2004&show_icons=true&theme=midnight-purple&title_color=2f80ed&text_color=fff&icon_color=2f80ed&layout=compact&border_color=2f80ed"/>
   </p> -->
-  ### 📝 Stats: 
-  <img src="https://wakatime.com/badge/user/ed88f1d0-5c2c-48d4-9e3c-6fc619f952b1.svg" alt=""/>
-<table border=0 rules=none frame=void>
-  <tr>
-    <td align=center>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhongDev2004&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D"/>
-    </td>
-    <td align=center>
-        <img src="https://github-readme-stats.vercel.app/api?username=PhongDev2004&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&hide_border=true&icon_color=2f80ed&custom_title=" alt="piyush-stats" />
-    </td>
-  </tr>
-</table>
-
 <div>
-
 </div>
 
 <p align="center">
